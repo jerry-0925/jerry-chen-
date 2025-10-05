@@ -1,0 +1,8 @@
+# 你先进入AudioGeneration执行demo_gpt，在文件里面自选生成哪一类和多少秒
+
+# 如何训练FSQ和GPT可以看AudioGeneration里面的Readme文件，数据集格式参考data1文件夹即可
+
+# 我已经帮你生成了5个类，放在demo/wav文件夹下但是感觉只有1/3/5还行，2和4效果不太行
+
+
+# 生成的是pt文件，你要得到原始wav要进入Bigvgan执行get_wavs，由pt还原为wav
