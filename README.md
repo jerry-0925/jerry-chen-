@@ -1,4 +1,4 @@
-Hi there, I‘m (ZIRUI )JERRY CHEN! 👋
+Hi there, I‘m (ZIRUI) JERRY CHEN! 👋
 
 I am a high school senior and also researcher in music technology.
 
