@@ -31,7 +31,7 @@ NO.1
 
 NO.2
 
-|Title| [The Impact of Stereo Audio on the Electroencephalogram Signal of Users’ Listening Experience](Analyze stereo audio/)
+|Title| [The Impact of Stereo Audio on the Electroencephalogram Signal of Users’ Listening Experience](Analyze-stereo-audio-using-EEG/)
 
 |Subject| Studies the effects of stereo audio on music listening. 
 
@@ -53,7 +53,7 @@ NO.3
 
 NO.4
 
-|Title| [Generated ASMR and its effect on human participants](ASMR generation/)
+|Title| [Generated ASMR and its effect on human participants](ASMR-generation/)
 
 |Subject| Study on the generation of ASMR audio
 Built a VQ-VAE AR generation model using data from YouTube-ASMR-300K dataset, can generate samples of percussive, friction, vocal and ambient sounds. One of the very first studies in the field of ASMR audio to replicate sound sources by automated methods. |key Contributions|Integrate prompt to audio pipelines like TangoFlux, ElevenLabs etc. to Satie, enabling users to generate multiple options of audio when there are no suitable ones in Satie library. Create a sample musical piece that replicates the experience of a cross country practice run. 
