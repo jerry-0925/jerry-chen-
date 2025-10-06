@@ -30,7 +30,7 @@ NO.1
 
 |Honors| Paper under review for PLOS One journal. Science Fair 3rd place in LA County (with 50 participants in the category); Advanced into California State Science Fair
 
-|link|
+
 
 
 NO.2
@@ -43,7 +43,7 @@ NO.2
 
 |Honors| Paper published at 2025 International Conference on Computers, Information Processing and Advanced Education (CIPAE). 
 
-|link|
+
 
 
 NO.3
@@ -56,7 +56,7 @@ NO.3
 
 |Honors|Demo at a conference
 
-|link|
+
 
 
 N0.4
@@ -70,7 +70,7 @@ Built a VQ-VAE AR generation model using data from YouTube-ASMR-300K dataset, ca
 
 |Honors|processing
 
-|link|
+
 
 NO.5
 
@@ -82,7 +82,7 @@ NO.5
 
 |Honors|Delaware Country Science Fair second place
 
-|link|
+
 
 📫 connect with me
 - 📧 E-MAIL: CZR_JERRY@163.COM
