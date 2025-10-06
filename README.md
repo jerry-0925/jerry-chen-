@@ -4,6 +4,7 @@ I am a highschool senior and also
 Music Hacker
 Neural Audio Engineer
 I engineer serene algorithms to transform sound into healing
+
 Most of my research focus on the overlap between the human experience with music using computer science. The interdisciplinary approach combining music, psychology, neuroscience and computer science is novel and intriguing to me.
 
 🚀 Technologies & Areas of Interest
