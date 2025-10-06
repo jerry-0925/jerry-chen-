@@ -76,5 +76,5 @@ NO.5
 
 
 📫 connect with me
-- 📧 E-MAIL: CZR_JERRY@163.COM
+- 📧 E-MAIL: czr_jerry@163.com
 - 🌐 My creative music web:
