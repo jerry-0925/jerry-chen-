@@ -1,9 +1,6 @@
 Hi there, I‘m (ZIRUI )JERRY CHEN! 👋
 
-I am a highschool senior and also 
-Music Hacker
-Neural Audio Engineer
-I engineer serene algorithms to transform sound into healing
+I am a high school senior and also researcher in music technology.
 
 Most of my research focus on the overlap between the human experience with music using computer science. The interdisciplinary approach combining music, psychology, neuroscience and computer science is novel and intriguing to me.
 
@@ -18,8 +15,7 @@ Most of my research focus on the overlap between the human experience with music
 
 3.Human-Centered Design: Human-Computer Interaction, Music Therapy
 
-
- 🏆 Rearch issues
+ 🏆 Research issues
 
 NO.1
 
