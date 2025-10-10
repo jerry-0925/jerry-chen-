@@ -46,7 +46,7 @@ NO.3
 
 **Subject** :Sound scaping with code, creating audio generation samples
 
-**Key Contributions**:Integrate prompt to audio pipelines like TangoFlux, ElevenLabs etc. to Satie, enabling users to generate multiple options of audio when there are no suitable ones in Satie library. Create a sample musical piece that replicates the experience of a cross country practice run. 
+**Key Contributions**:Integrate prompt to audio pipelines like TangoFlux, AudioLDM etc. to Satie, enabling users to generate multiple options of audio when there are no suitable ones in Satie library. Create a sample musical piece that replicates the experience of a cross country practice run. 
 
 
 
