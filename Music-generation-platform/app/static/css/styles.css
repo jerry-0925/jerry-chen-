@@ -1,0 +1,131 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+/* Container for the main content */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Page Header */
+h1, h2 {
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+/* Styling for buttons */
+button, .btn {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover, .btn:hover {
+    background-color: #0056b3;
+}
+
+/* Form Styling */
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+form .mb-3 {
+    margin-bottom: 15px;
+}
+
+form input, form button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+form input[type="file"] {
+    width: auto;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #007bff;
+    color: white;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navbar a:hover {
+    background-color: #0056b3;
+}
+
+/* Task List Styling */
+#taskList {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 15px;
+    background-color: #e9ecef;
+    border: 1px solid #ddd;
+}
+
+.list-group-item:hover {
+    background-color: #f1f3f5;
+}
+
+/* Result Section */
+#analysisResult {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Modal for displaying error or success messages */
+.modal-content {
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+/* Adjusting for small screens */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    form {
+        padding: 15px;
+    }
+
+    button, .btn {
+        padding: 8px 15px;
+    }
+}
