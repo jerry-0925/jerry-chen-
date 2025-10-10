@@ -48,7 +48,6 @@ NO.3
 
 **Key Contributions**:Integrate prompt to audio pipelines like TangoFlux, ElevenLabs etc. to Satie, enabling users to generate multiple options of audio when there are no suitable ones in Satie library. Create a sample musical piece that replicates the experience of a cross country practice run. 
 
-**Honors**:Demo at a conference
 
 
 NO.4
@@ -60,7 +59,6 @@ Built a VQ-VAE AR generation model using data from YouTube-ASMR-300K dataset, ca
 
 **Key Contributions**:Develop the model to support generation; Design hardware and their corresponding controls to measure its effect. Stepping foot into a field very underexplored yet.
 
-**Honors**:Processing
 
 
 NO.5
